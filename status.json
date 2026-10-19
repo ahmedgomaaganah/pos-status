@@ -1,7 +1,9 @@
 {
   "v": 1,
-  "enabled": false,
-  "revoked": [],
-  "updated": "2026-10-19 15:45",
-  "sig": "GaJF6gksR9hqCdM/d2E7mREfEFUuoLpWvQneXUOGbtaiMcWvaOp6IE8u/3AzuDb12FenrB759HBDkLo9SxMP7MQ2gV7zFzDMiLZXwL9Sq6WibLyN789/snSmMwDrdpjcgn/rdYEPrMeqAu0GXrRLYiUoOYlXRGiECIyKJP9Hgi/GuNXbLKUN/kJJFgnwFcL0Q7Xd9sB7fH4CNTxGJbnucRJ6A8tnaVKiindaGYUUVwWU9qZxaWiySIE\u002BcUQY0FXC3EcdEk29NJnq7PcE77DDEmJ78rpTHB5ujN00cEuKAskSxJmi5GQG8gCU1t\u002B4UKRq2oe9GCjV7375LmNyqHGvqA=="
+  "enabled": true,
+  "revoked": [
+    "1CE0-4264-F8D6-F365"
+  ],
+  "updated": "2026-10-19 16:47",
+  "sig": "A\u002BGf45lxM0SAQzVgFV608f6Lt7PuGCj0SeQWVkvpia0KCXFe6\u002B82H3JHBZD1ai3fELSkjiu1tKeXlP1m08Wuh5206yeg/KO7algHiRpJa0UCE5NyTyGeEEVKc2BEwZ2jMYqG1qnv7SyosvmbvNIRk/zpxPY6t98wG4mCV66BLkirlPaPiqWNxD9PYCNkOPTCdxi30zvmhHdlOhYKc/6PmHq0RreiisnsyT8CsohFtknp70P2/1KXDkyGFoUhZLsPtMofuvBRDertIXlveF0cd4Kmv7jUkrZj6Fm8n/t8eFwYazGHbK0j3vRyrXsb2T/6FZjSR/awHmex9twA2Fw1AA=="
 }
